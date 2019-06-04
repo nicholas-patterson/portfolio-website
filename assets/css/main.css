@@ -8593,3 +8593,15 @@ input, select, textarea {
 			.icons .fa-css3{
 				color: #0065b3;
 			}
+
+		
+
+			
+
+
+		.skills{
+			display: flex;
+			align-items: flex-start;
+			height: 300px;
+		}
+		
